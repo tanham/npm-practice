@@ -1,0 +1,11 @@
+{
+  "name": "npm-practice",
+  "version": "3.10.3",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "tanham",
+  "license": "ISC"
+}
